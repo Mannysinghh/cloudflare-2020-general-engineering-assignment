@@ -1,0 +1,6 @@
+name = "my-app"
+type = "webpack"
+account_id = "b64383d33c3624a6f6a4fcf2e57c5439"
+workers_dev = true
+route = ""
+zone_id = ""
